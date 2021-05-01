@@ -1,0 +1,13 @@
+{
+  "name": "ccrb-complaint-records",
+  "version": "1.0.0",
+  "main": "script.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "devDependencies": {
+    "d3": "^6.7.0",
+    "node-fetch": "^2.6.1"
+  }
+}

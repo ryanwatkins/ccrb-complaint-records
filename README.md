@@ -1,2 +1,3 @@
-# ccrb-compaint-records
-History of CCRB complaint records from nyc.gov
+# ccrb-complaint-records
+
+History of [CCRB complaint records](https://www1.nyc.gov/site/ccrb/policy/MOS-records.page) from nyc.gov
