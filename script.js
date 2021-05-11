@@ -154,6 +154,13 @@ async function fetchRecords({ type, active }) {
 }
 
 async function save({ officers, complaints }) {
+  complaints = complaints.map(complaint => {
+    if (complaint.penalty_desc?.toLowerCase() === 'no penalty') {
+      complaint.penalty_desc = 'No penalty'
+    }
+    return complaint
+  })
+
   officers.sort((a,b) => {
     if (a.id < b.id) { return -1 }
     if (a.id > b.id) { return 1 }
