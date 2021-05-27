@@ -155,9 +155,18 @@ async function fetchRecords({ type, active }) {
 
 async function save({ officers, complaints }) {
   complaints = complaints.map(complaint => {
-    if (complaint.penalty_desc?.toLowerCase() === 'no penalty') {
-      complaint.penalty_desc = 'No penalty'
-    }
+    const penalties = ['No penalty']
+    penalties.forEach(penalty => {
+      if (complaint.penalty_desc?.toLowerCase() === penalty.toLowerCase()) {
+        complaint.penalty_desc = penalty
+      }
+    })
+    const allegations = ['Gun pointed']
+    allegations.forEach(allegation => {
+      if (complaint.allegation?.toLowerCase() === allegation.toLowerCase()) {
+        complaint.allegation = allegation
+      }
+    })
     return complaint
   })
 
