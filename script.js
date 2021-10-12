@@ -170,6 +170,12 @@ async function save({ officers, complaints }) {
     return complaint
   })
 
+  officers = officers.map(officer => {
+    officer.first_name = officer.first_name.toUpperCase()
+    officer.last_name = officer.last_name.toUpperCase()
+    return officer
+  })
+
   officers.sort((a,b) => {
     if (a.id < b.id) { return -1 }
     if (a.id > b.id) { return 1 }
