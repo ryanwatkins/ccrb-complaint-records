@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "d3": "^6.7.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "2.6.7"
   }
 }
