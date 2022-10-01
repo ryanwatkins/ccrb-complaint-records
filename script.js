@@ -1,9 +1,9 @@
 // fetch current officer and complaint records from ccrb site
 // save as csv and json
 
-const fs = require('fs').promises
-const d3 = require('d3')
-const fetch = require('node-fetch')
+import * as d3 from 'd3';
+import fetch from 'node-fetch'
+import { promises as fs } from 'fs'
 
 async function request({ query, headers }) {
   const response = await fetch(QUERY.url, {
@@ -240,12 +240,13 @@ async function start() {
 
 const HEADERS = {
   'Connection': 'keep-alive',
-  'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+  'sec-ch-ua': '.Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
   'sec-ch-ua-mobile': '?0',
-  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36',
-  'ActivityId': '5048db79-1b5d-376a-2653-8e1fb4c7efb4',
+  'sec-ch-ua-platform': 'macOS',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36',
+  'ActivityId': 'dc745861-c4a7-0ef7-33bb-68aebbd8c7a4',
   'Accept': 'application/json, text/plain, */*',
-  'RequestId': '22afa0e8-9496-4d9a-2e8c-4a2b50809670',
+  'RequestId': '8e3188a8-6b6e-967c-8d3d-25ba6fe6140d',
   'Content-Type': 'application/json;charset=UTF-8',
   'Origin': 'https://app.powerbigov.us',
   'Sec-Fetch-Site': 'cross-site',
@@ -257,6 +258,7 @@ const HEADERS = {
 
 const QUERY = {
   url: 'https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/querydata?synchronous=true',
+
   officers: {
     "version": "1.0.0",
     "queries": [
@@ -352,7 +354,8 @@ const QUERY = {
     ],
     "cancelQueries": [],
     "modelId": 404287
-  } ,
+  },
+
   complaints: {
     "version": "1.0.0",
     "queries": [
