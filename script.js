@@ -1,7 +1,7 @@
 // fetch current officer and complaint records from ccrb site
 // save as csv and json
 
-import * as d3 from 'd3';
+import * as d3 from 'd3'
 import fetch from 'node-fetch'
 import { promises as fs } from 'fs'
 
@@ -16,7 +16,7 @@ async function request({ query, headers }) {
   return result
 }
 
-// see https://git.io/JONBX
+// see prior work https://git.io/JONBX
 function processRows(response) {
   const DS0 = response.results[0].result.data.dsr.DS[0]
 
@@ -137,7 +137,7 @@ async function fetchRecords({ type, active }) {
   }
 
   do {
-    process.stdout.write(` ${page}`);
+    process.stdout.write(` ${page}`)
     const response = await request({ query, headers })
     let processed = processRows(response)
     processed = processed.map(arrayToObj[type])
@@ -153,7 +153,7 @@ async function fetchRecords({ type, active }) {
   return rows
 }
 
-async function save({ officers, complaints }) {
+async function save({ officers, complaints, closingReports }) {
   complaints = complaints.map(complaint => {
     const penalties = ['No penalty']
     penalties.forEach(penalty => {
@@ -170,17 +170,6 @@ async function save({ officers, complaints }) {
     return complaint
   })
 
-  officers = officers.map(officer => {
-    officer.first_name = officer.first_name.toUpperCase()
-    officer.last_name = officer.last_name.toUpperCase()
-    return officer
-  })
-
-  officers.sort((a,b) => {
-    if (a.id < b.id) { return -1 }
-    if (a.id > b.id) { return 1 }
-    return 0
-  })
   complaints.sort((a,b) => {
     const props = [
       'complaint_id', 'officer_id', 'fado_type', 'allegation',
@@ -194,23 +183,51 @@ async function save({ officers, complaints }) {
     return 0
   })
 
+  officers = officers.map(officer => {
+    officer.first_name = officer.first_name.toUpperCase()
+    officer.last_name = officer.last_name.toUpperCase()
+    return officer
+  })
+
+  officers.sort((a,b) => {
+    if (a.id < b.id) { return -1 }
+    if (a.id > b.id) { return 1 }
+    return 0
+  })
+
+  // closing reports, sort by ComplaintId
+  closingReports.sort((a,b) => {
+    if (a.ComplaintId < b.ComplaintId) { return -1 }
+    if (a.ComplaintId > b.ComplaintId) { return 1 }
+    return 0
+  })
+
   await fs.writeFile('officers.json', JSON.stringify(officers, null, 2))
   await fs.writeFile('officers.csv', d3.csvFormat(officers))
 
   await fs.writeFile('complaints.json', JSON.stringify(complaints, null, 2))
   await fs.writeFile('complaints.csv', d3.csvFormat(complaints))
 
+  await fs.writeFile('closingreports.json', JSON.stringify(closingReports, null, 2))
+  await fs.writeFile('closingreports.csv', d3.csvFormat(closingReports))
+
   let officerById = {}
   officers.forEach(officer => { officerById[officer.id] = officer })
+  let closingReportsById = {}
+  closingReports.forEach(report => { closingReportsById[report.ComplaintId] = report })
+
   const combined = complaints.map(complaint => {
     const officer_id = complaint.officer_id
     delete complaint.officer_id
+
     let record = {
       officer_id,
       ...officerById[officer_id],
-      ...complaint
+      ...complaint,
+      closing_report_url: closingReportsById[complaint.complaint_id]?.WebsiteDocumentFileName || null
     }
     delete record.id
+
     return record
   })
 
@@ -218,10 +235,26 @@ async function save({ officers, complaints }) {
   await fs.writeFile('records.csv', d3.csvFormat(combined))
 }
 
+async function fetchClosingReports() {
+  const url = 'https://www.nyc.gov/assets/ccrb/csv/closing-reports/redacted-closing-reports.csv'
+
+  const response = await fetch(url)
+  const buffer = await response.text()
+  let records = await d3.csvParse(buffer)
+
+  records = records.map(record => {
+    record.WebsiteDocumentFileName = `https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/${record.WebsiteDocumentFileName}`
+    return record
+  })
+
+  return records
+}
+
 async function start() {
   let results = {
     complaints: [],
-    officers: []
+    officers: [],
+    closingReports: []
   }
 
   for (const type of ['officers', 'complaints']) {
@@ -232,6 +265,8 @@ async function start() {
       console.log(`\nfetched ${rows.length} ${active ? '': 'in'}active ${type}`)
     }
   }
+
+  results.closingReports = await fetchClosingReports()
 
   save(results)
 }
