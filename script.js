@@ -153,7 +153,7 @@ async function fetchRecords({ type, active }) {
   return rows
 }
 
-async function save({ officers, complaints, closingReports }) {
+async function save({ officers, complaints, closingReports, departureLetters }) {
   complaints = complaints.map(complaint => {
     const penalties = ['No penalty']
     penalties.forEach(penalty => {
@@ -201,6 +201,11 @@ async function save({ officers, complaints, closingReports }) {
     if (a.ComplaintId > b.ComplaintId) { return 1 }
     return 0
   })
+  departureLetters.sort((a,b) => {
+    if (a.CaseNumber < b.CaseNumber) { return -1 }
+    if (a.CaseNumber > b.CaseNumber) { return 1 }
+    return 0
+  })
 
   await fs.writeFile('officers.json', JSON.stringify(officers, null, 2))
   await fs.writeFile('officers.csv', d3.csvFormat(officers))
@@ -210,6 +215,9 @@ async function save({ officers, complaints, closingReports }) {
 
   await fs.writeFile('closingreports.json', JSON.stringify(closingReports, null, 2))
   await fs.writeFile('closingreports.csv', d3.csvFormat(closingReports))
+
+  await fs.writeFile('departureletters.json', JSON.stringify(departureLetters, null, 2))
+  await fs.writeFile('departureletters.csv', d3.csvFormat(departureLetters))
 
   let officerById = {}
   officers.forEach(officer => { officerById[officer.id] = officer })
@@ -236,15 +244,26 @@ async function save({ officers, complaints, closingReports }) {
 }
 
 async function fetchClosingReports() {
-  const url = 'https://www.nyc.gov/assets/ccrb/csv/closing-reports/redacted-closing-reports.csv'
+  return fetchCcrbCsv(
+      'https://www.nyc.gov/assets/ccrb/csv/closing-reports/redacted-closing-reports.csv',
+      'WebsiteDocumentFileName',
+      'https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/')
+}
 
+async function fetchDepartureLetters() {
+  return fetchCcrbCsv(
+      'https://www.nyc.gov/assets/ccrb/csv/departure-letter/RedactedDepartureLetters.csv',
+      'FileLink',
+      'https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/')
+}
+
+async function fetchCcrbCsv(url, docField, docPrefix) {
   const response = await fetch(url)
   const buffer = await response.text()
   let records = await d3.csvParse(buffer)
 
-  records = records.map(record => {
-    record.WebsiteDocumentFileName = `https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/${record.WebsiteDocumentFileName}`
-    return record
+  records.forEach(record => {
+    record[docField] = docPrefix + record[docField]
   })
 
   return records
@@ -254,7 +273,8 @@ async function start() {
   let results = {
     complaints: [],
     officers: [],
-    closingReports: []
+    closingReports: [],
+    departureLetters: []
   }
 
   for (const type of ['officers', 'complaints']) {
@@ -267,6 +287,7 @@ async function start() {
   }
 
   results.closingReports = await fetchClosingReports()
+  results.departureLetters = await fetchDepartureLetters()
 
   save(results)
 }
