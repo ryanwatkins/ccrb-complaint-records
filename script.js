@@ -195,7 +195,13 @@ async function save({ officers, complaints, closingReports, departureLetters }) 
     return 0
   })
 
-  // closing reports, sort by ComplaintId
+  await fs.writeFile('officers.json', JSON.stringify(officers, null, 2))
+  await fs.writeFile('officers.csv', d3.csvFormat(officers))
+
+  await fs.writeFile('complaints.json', JSON.stringify(complaints, null, 2))
+  await fs.writeFile('complaints.csv', d3.csvFormat(complaints))
+
+  // closing reports and departure letters, sort by ComplaintId
   closingReports.sort((a,b) => {
     if (a.ComplaintId < b.ComplaintId) { return -1 }
     if (a.ComplaintId > b.ComplaintId) { return 1 }
@@ -204,25 +210,44 @@ async function save({ officers, complaints, closingReports, departureLetters }) 
   departureLetters.sort((a,b) => {
     if (a.CaseNumber < b.CaseNumber) { return -1 }
     if (a.CaseNumber > b.CaseNumber) { return 1 }
+    if (a.LastName < b.LastName) { return -1 }
+    if (a.LastName > b.LastName) { return 1 }
     return 0
   })
 
-  await fs.writeFile('officers.json', JSON.stringify(officers, null, 2))
-  await fs.writeFile('officers.csv', d3.csvFormat(officers))
-
-  await fs.writeFile('complaints.json', JSON.stringify(complaints, null, 2))
-  await fs.writeFile('complaints.csv', d3.csvFormat(complaints))
-
-  await fs.writeFile('closingreports.json', JSON.stringify(closingReports, null, 2))
   await fs.writeFile('closingreports.csv', d3.csvFormat(closingReports))
-
-  await fs.writeFile('departureletters.json', JSON.stringify(departureLetters, null, 2))
   await fs.writeFile('departureletters.csv', d3.csvFormat(departureLetters))
+
+  closingReports = {
+    totalPosted: closingReports[0].totalPosted,
+    totalClosedCase: closingReports[0].totalClosedCase,
+    lastPublishDate: closingReports[0].LastPublishDate,
+    closingReports: closingReports.map(report => {
+      delete report.totalPosted
+      delete report.totalClosedCase
+      delete report.LastPublishDate
+      return report
+    })
+  }
+  departureLetters = {
+    totalPosted: departureLetters[0].totalPosted,
+    totalClosedCase: departureLetters[0].totalClosedCase,
+    lastPublishDate: departureLetters[0].LastPublishDate,
+    departureLetters: departureLetters.map(letter => {
+      delete letter.Id
+      delete letter.LastPublishDate
+      return letter
+    })
+  }
+  await fs.writeFile('closingreports.json', JSON.stringify(closingReports, null, 2))
+  await fs.writeFile('departureletters.json', JSON.stringify(departureLetters, null, 2))
 
   let officerById = {}
   officers.forEach(officer => { officerById[officer.id] = officer })
   let closingReportsById = {}
-  closingReports.forEach(report => { closingReportsById[report.ComplaintId] = report })
+  closingReports.closingReports.forEach(report => { closingReportsById[report.ComplaintId] = report })
+  let departureLettersById = {}
+  departureLetters.departureLetters.forEach(letter => { departureLettersById[letter.CaseNumber] = letter })
 
   const combined = complaints.map(complaint => {
     const officer_id = complaint.officer_id
@@ -232,8 +257,16 @@ async function save({ officers, complaints, closingReports, departureLetters }) 
       officer_id,
       ...officerById[officer_id],
       ...complaint,
-      closing_report_url: closingReportsById[complaint.complaint_id]?.WebsiteDocumentFileName || null
+      closing_report_url: closingReportsById[complaint.complaint_id]?.WebsiteDocumentFileName || null,
+      departure_letter_url: departureLettersById[complaint.complaint_id]?.FileLink || null
     }
+
+    Object.keys(record).forEach(key => {
+      if (record[key] === null) {
+        delete record[key]
+      }
+    })
+
     delete record.id
 
     return record
