@@ -230,8 +230,6 @@ async function save({ officers, complaints, closingReports, departureLetters }) 
     })
   }
   departureLetters = {
-    totalPosted: departureLetters[0].totalPosted,
-    totalClosedCase: departureLetters[0].totalClosedCase,
     lastPublishDate: departureLetters[0].LastPublishDate,
     departureLetters: departureLetters.map(letter => {
       delete letter.Id
@@ -253,12 +251,20 @@ async function save({ officers, complaints, closingReports, departureLetters }) 
     const officer_id = complaint.officer_id
     delete complaint.officer_id
 
+    const officer = officerById[officer_id]
+    const closingReport = closingReportsById[complaint.complaint_id]
+    let departureLetter = departureLettersById[complaint.complaint_id]
+    if ((departureLetter?.LastName.toUpperCase() !== officer.last_name.replace('BRUCEWATSON', 'BRUCE').toUpperCase()) ||
+        (departureLetter?.FirstName.substr(0, 10).toUpperCase() !== officer.first_name.substr(0, 10).toUpperCase())) {
+      departureLetter = null
+    }
+
     let record = {
       officer_id,
-      ...officerById[officer_id],
+      ...officer,
       ...complaint,
-      closing_report_url: closingReportsById[complaint.complaint_id]?.WebsiteDocumentFileName || null,
-      departure_letter_url: departureLettersById[complaint.complaint_id]?.FileLink || null
+      closing_report_url: closingReport?.WebsiteDocumentFileName || null,
+      departure_letter_url: departureLetter?.FileLink || null
     }
 
     Object.keys(record).forEach(key => {
