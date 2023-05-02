@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "04/18/2023",
+  "lastPublishDate": "05/01/2023",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1682,6 +1682,15 @@
       "FirstName": "Patrick",
       "LastName": "Chilton",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202106608_Tax938221_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202200292",
+      "ReportYear": "2023",
+      "ReportMonth": "4",
+      "FirstName": "Sherlon",
+      "LastName": "Cromwell",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202200292_Tax943116_RedactedDepartureLetter.pdf",
       "RedactedClosingReportFileName": ""
     }
   ]
