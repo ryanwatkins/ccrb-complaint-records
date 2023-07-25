@@ -1,7 +1,7 @@
 {
-  "totalPosted": "1835",
-  "totalClosedCase": "13159",
-  "lastPublishDate": "07/20/2023",
+  "totalPosted": "1837",
+  "totalClosedCase": "13163",
+  "lastPublishDate": "07/24/2023",
   "closingReports": [
     {
       "ComplaintId": "201301992",
@@ -4070,6 +4070,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201802916_RedactedClosingReport.pdf",
       "ClosedDate": "10/25/2018 12:00:00 AM"
+    },
+    {
+      "ComplaintId": "201802943",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201802943_RedactedClosingReport.pdf",
+      "ClosedDate": "3/6/2019 12:00:00 AM"
     },
     {
       "ComplaintId": "201802981",
@@ -10940,6 +10946,12 @@
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202107188_RedactedClosingReport.pdf",
       "ClosedDate": "2/15/2023 12:00:00 AM"
+    },
+    {
+      "ComplaintId": "202107199",
+      "CaseDisposition": "Within NYPD Guidelines",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202107199_RedactedClosingReport.pdf",
+      "ClosedDate": "4/18/2023 12:00:00 AM"
     },
     {
       "ComplaintId": "202107262",
