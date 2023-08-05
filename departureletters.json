@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "08/01/2023",
+  "lastPublishDate": "08/04/2023",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1781,7 +1781,7 @@
       "FirstName": "Anthony",
       "LastName": "Torres",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202200430_Tax936087_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202200430_RedactedClosingReport.pdf"
     }
   ]
 }
