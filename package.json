@@ -7,8 +7,10 @@
   "scripts": {
     "start": "node script.js"
   },
-  "devDependencies": {
-    "d3": "^7.6.1",
-    "node-fetch": "3.2.10"
+  "devDependencies": {},
+  "dependencies": {
+    "csv-parse": "^5.4.0",
+    "csv-stringify": "^6.4.0",
+    "node-fetch": "^3.3.2"
   }
 }
