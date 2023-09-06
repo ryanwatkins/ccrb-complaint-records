@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "08/04/2023",
+  "lastPublishDate": "09/05/2023",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1782,6 +1782,33 @@
       "LastName": "Torres",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202200430_Tax936087_RedactedDepartureLetter.pdf",
       "RedactedClosingReportFileName": "202200430_RedactedClosingReport.pdf"
+    },
+    {
+      "CaseNumber": "202200949",
+      "ReportYear": "2023",
+      "ReportMonth": "8",
+      "FirstName": "Bryant",
+      "LastName": "Harinarain",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202200949_Tax943352_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202200991",
+      "ReportYear": "2023",
+      "ReportMonth": "8",
+      "FirstName": "Conrade",
+      "LastName": "Joseph",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202200991_Tax969832_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202201741",
+      "ReportYear": "2023",
+      "ReportMonth": "8",
+      "FirstName": "Jorge",
+      "LastName": "Flores",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202201741_Tax954816_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
     }
   ]
 }
