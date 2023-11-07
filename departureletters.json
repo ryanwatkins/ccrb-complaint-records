@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "10/11/2023",
+  "lastPublishDate": "11/06/2023",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1856,6 +1856,24 @@
       "RedactedClosingReportFileName": "202202133_RedactedClosingReport.pdf"
     },
     {
+      "CaseNumber": "202202141",
+      "ReportYear": "2023",
+      "ReportMonth": "10",
+      "FirstName": "Marco",
+      "LastName": "Libongco",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202141_Tax938858_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": "202202141_RedactedClosingReport.pdf"
+    },
+    {
+      "CaseNumber": "202202202",
+      "ReportYear": "2023",
+      "ReportMonth": "10",
+      "FirstName": "Carmelo",
+      "LastName": "Colon",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202202_Tax967457_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": "202202202_RedactedClosingReport.pdf"
+    },
+    {
       "CaseNumber": "202202293",
       "ReportYear": "2023",
       "ReportMonth": "9",
@@ -1863,6 +1881,60 @@
       "LastName": "Luckmann",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202293_Tax945934_RedactedDepartureLetter.pdf",
       "RedactedClosingReportFileName": "202202293_RedactedClosingReport.pdf"
+    },
+    {
+      "CaseNumber": "202202350",
+      "ReportYear": "2023",
+      "ReportMonth": "10",
+      "FirstName": "Antonio",
+      "LastName": "Meyers",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202350_Tax966715_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202202356",
+      "ReportYear": "2023",
+      "ReportMonth": "10",
+      "FirstName": "Yesmelin",
+      "LastName": "Reyes",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202356_Tax968090_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202202413",
+      "ReportYear": "2023",
+      "ReportMonth": "10",
+      "FirstName": "Andres",
+      "LastName": "Uribe",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202413_Tax964325_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": "202202413_RedactedClosingReport.pdf"
+    },
+    {
+      "CaseNumber": "202202775",
+      "ReportYear": "2023",
+      "ReportMonth": "10",
+      "FirstName": "Mark",
+      "LastName": "Kistoo",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202775_Tax943444_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202202837",
+      "ReportYear": "2023",
+      "ReportMonth": "11",
+      "FirstName": "Derek",
+      "LastName": "Sambolin",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202837_Tax943771_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202203431",
+      "ReportYear": "2023",
+      "ReportMonth": "11",
+      "FirstName": "Alberto",
+      "LastName": "Jimenez",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203431_Tax935069_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
     }
   ]
 }
