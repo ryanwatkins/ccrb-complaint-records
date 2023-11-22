@@ -1,7 +1,7 @@
 {
   "totalPosted": "2250",
-  "totalClosedCase": "13842",
-  "lastPublishDate": "11/06/2023",
+  "totalClosedCase": "13919",
+  "lastPublishDate": "11/21/2023",
   "closingReports": [
     {
       "ComplaintId": "201301992",
@@ -12826,12 +12826,6 @@
       "ClosedDate": "08/03/2022"
     },
     {
-      "ComplaintId": "202101848",
-      "CaseDisposition": "Substantiated (Charges)",
-      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202101848_RedactedClosingReport.pdf",
-      "ClosedDate": "04/14/2022"
-    },
-    {
       "ComplaintId": "202101858",
       "CaseDisposition": "Exonerated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202101858_RedactedClosingReport.pdf",
@@ -13484,6 +13478,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202203727_RedactedClosingReport.pdf",
       "ClosedDate": "11/07/2022"
+    },
+    {
+      "ComplaintId": "202203878",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202203878_RedactedClosingReport.pdf",
+      "ClosedDate": "03/17/2023"
     },
     {
       "ComplaintId": "202204715",

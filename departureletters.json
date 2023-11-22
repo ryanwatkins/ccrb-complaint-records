@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "11/06/2023",
+  "lastPublishDate": "11/21/2023",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1217,15 +1217,6 @@
       "RedactedClosingReportFileName": "202101747_RedactedClosingReport.pdf"
     },
     {
-      "CaseNumber": "202101848",
-      "ReportYear": "2022",
-      "ReportMonth": "6",
-      "FirstName": "Dynel",
-      "LastName": "Powell",
-      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202101848_Tax940544_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": "202101848_RedactedClosingReport.pdf"
-    },
-    {
       "CaseNumber": "202101995",
       "ReportYear": "2022",
       "ReportMonth": "9",
@@ -1925,6 +1916,33 @@
       "FirstName": "Derek",
       "LastName": "Sambolin",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202837_Tax943771_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202202968",
+      "ReportYear": "2023",
+      "ReportMonth": "11",
+      "FirstName": "Danny",
+      "LastName": "Aguilar",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202968_Tax941319_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202203051",
+      "ReportYear": "2023",
+      "ReportMonth": "11",
+      "FirstName": "Sean",
+      "LastName": "Claxton",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203051_Tax943092_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202203275",
+      "ReportYear": "2023",
+      "ReportMonth": "11",
+      "FirstName": "Sun",
+      "LastName": "Hu",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203275_Tax956744_RedactedDepartureLetter.pdf",
       "RedactedClosingReportFileName": ""
     },
     {
