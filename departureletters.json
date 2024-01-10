@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "11/21/2023",
+  "lastPublishDate": "01/09/2024",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -746,7 +746,7 @@
       "FirstName": "Jamal",
       "LastName": "Moye",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202001952_Tax958958_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": "202001952_RedactedClosingReport.pdf"
+      "RedactedClosingReportFileName": ""
     },
     {
       "CaseNumber": "202001961",
@@ -1880,7 +1880,7 @@
       "FirstName": "Antonio",
       "LastName": "Meyers",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202350_Tax966715_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202202350_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202202356",
@@ -1907,7 +1907,7 @@
       "FirstName": "Mark",
       "LastName": "Kistoo",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202775_Tax943444_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202202775_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202202837",
@@ -1916,7 +1916,7 @@
       "FirstName": "Derek",
       "LastName": "Sambolin",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202202837_Tax943771_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202202837_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202202968",
@@ -1934,7 +1934,7 @@
       "FirstName": "Sean",
       "LastName": "Claxton",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203051_Tax943092_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202203051_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202203275",
@@ -1943,7 +1943,7 @@
       "FirstName": "Sun",
       "LastName": "Hu",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203275_Tax956744_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202203275_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202203431",
@@ -1952,6 +1952,33 @@
       "FirstName": "Alberto",
       "LastName": "Jimenez",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203431_Tax935069_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": "202203431_RedactedClosingReport.pdf"
+    },
+    {
+      "CaseNumber": "202203788",
+      "ReportYear": "2023",
+      "ReportMonth": "12",
+      "FirstName": "Olga",
+      "LastName": "Bentin",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203788_Tax968962_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202204266",
+      "ReportYear": "2023",
+      "ReportMonth": "12",
+      "FirstName": "Michael",
+      "LastName": "Delia",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202204266_Tax963953_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202204404",
+      "ReportYear": "2023",
+      "ReportMonth": "12",
+      "FirstName": "Marc",
+      "LastName": "Pierre",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202204404_Tax970773_RedactedDepartureLetter.pdf",
       "RedactedClosingReportFileName": ""
     }
   ]
