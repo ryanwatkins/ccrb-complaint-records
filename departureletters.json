@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "01/18/2024",
+  "lastPublishDate": "02/01/2024",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1961,7 +1961,7 @@
       "FirstName": "Olga",
       "LastName": "Bentin",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202203788_Tax968962_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202203788_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202204266",
@@ -1970,7 +1970,7 @@
       "FirstName": "Michael",
       "LastName": "Delia",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202204266_Tax963953_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202204266_RedactedClosingReport.pdf"
     },
     {
       "CaseNumber": "202204404",
@@ -1979,7 +1979,7 @@
       "FirstName": "Marc",
       "LastName": "Pierre",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202204404_Tax970773_RedactedDepartureLetter.pdf",
-      "RedactedClosingReportFileName": ""
+      "RedactedClosingReportFileName": "202204404_RedactedClosingReport.pdf"
     }
   ]
 }
