@@ -1,5 +1,5 @@
 {
-  "lastPublishDate": "02/01/2024",
+  "lastPublishDate": "02/28/2024",
   "departureLetters": [
     {
       "CaseNumber": "201804621",
@@ -1775,6 +1775,15 @@
       "RedactedClosingReportFileName": "202200430_RedactedClosingReport.pdf"
     },
     {
+      "CaseNumber": "202200762",
+      "ReportYear": "2024",
+      "ReportMonth": "1",
+      "FirstName": "Donald",
+      "LastName": "Pak",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202200762_Tax930901_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
       "CaseNumber": "202200949",
       "ReportYear": "2023",
       "ReportMonth": "9",
@@ -1965,8 +1974,8 @@
     },
     {
       "CaseNumber": "202204266",
-      "ReportYear": "2023",
-      "ReportMonth": "12",
+      "ReportYear": "2024",
+      "ReportMonth": "1",
       "FirstName": "Michael",
       "LastName": "Delia",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202204266_Tax963953_RedactedDepartureLetter.pdf",
@@ -1974,12 +1983,30 @@
     },
     {
       "CaseNumber": "202204404",
-      "ReportYear": "2023",
-      "ReportMonth": "12",
+      "ReportYear": "2024",
+      "ReportMonth": "1",
       "FirstName": "Marc",
       "LastName": "Pierre",
       "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202204404_Tax970773_RedactedDepartureLetter.pdf",
       "RedactedClosingReportFileName": "202204404_RedactedClosingReport.pdf"
+    },
+    {
+      "CaseNumber": "202205441",
+      "ReportYear": "2024",
+      "ReportMonth": "2",
+      "FirstName": "Michael",
+      "LastName": "Zhang",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202205441_Tax968202_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
+    },
+    {
+      "CaseNumber": "202205463",
+      "ReportYear": "2024",
+      "ReportMonth": "2",
+      "FirstName": "William",
+      "LastName": "Glynn",
+      "FileLink": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/complaints/complaint-outcomes/redacted-departure-letters/202205463_Tax932718_RedactedDepartureLetter.pdf",
+      "RedactedClosingReportFileName": ""
     }
   ]
 }
