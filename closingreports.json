@@ -1,7 +1,7 @@
 {
-  "totalPosted": "3671",
-  "totalClosedCase": "16488",
-  "lastPublishDate": "11/18/2024",
+  "totalPosted": "3773",
+  "totalClosedCase": "16726",
+  "lastPublishDate": "12/12/2024",
   "closingReports": [
     {
       "ComplaintId": "201301992",
@@ -310,6 +310,12 @@
       "ClosedDate": "02/23/2015"
     },
     {
+      "ComplaintId": "201401599",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201401599_RedactedClosingReport.pdf",
+      "ClosedDate": "01/08/2015"
+    },
+    {
       "ComplaintId": "201401627",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201401627_RedactedClosingReport.pdf",
@@ -338,6 +344,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201401786_RedactedClosingReport.pdf",
       "ClosedDate": "05/11/2015"
+    },
+    {
+      "ComplaintId": "201401800",
+      "CaseDisposition": "Substantiated (Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201401800_RedactedClosingReport.pdf",
+      "ClosedDate": "01/09/2015"
     },
     {
       "ComplaintId": "201401986",
@@ -406,6 +418,12 @@
       "ClosedDate": "02/09/2015"
     },
     {
+      "ComplaintId": "201402587",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201402587_RedactedClosingReport.pdf",
+      "ClosedDate": "03/30/2015"
+    },
+    {
       "ComplaintId": "201402689",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201402689_RedactedClosingReport.pdf",
@@ -428,6 +446,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201402732_RedactedClosingReport.pdf",
       "ClosedDate": "02/09/2015"
+    },
+    {
+      "ComplaintId": "201402735",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201402735_RedactedClosingReport.pdf",
+      "ClosedDate": "01/08/2015"
     },
     {
       "ComplaintId": "201402786",
@@ -550,6 +574,12 @@
       "ClosedDate": "02/09/2015"
     },
     {
+      "ComplaintId": "201403739",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201403739_RedactedClosingReport.pdf",
+      "ClosedDate": "02/23/2015"
+    },
+    {
       "ComplaintId": "201403847",
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201403847_RedactedClosingReport.pdf",
@@ -602,6 +632,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201404609_RedactedClosingReport.pdf",
       "ClosedDate": "06/25/2015"
+    },
+    {
+      "ComplaintId": "201404611",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201404611_RedactedClosingReport.pdf",
+      "ClosedDate": "03/06/2015"
     },
     {
       "ComplaintId": "201404614",
@@ -898,6 +934,12 @@
       "ClosedDate": "03/03/2015"
     },
     {
+      "ComplaintId": "201405983",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201405983_RedactedClosingReport.pdf",
+      "ClosedDate": "07/28/2015"
+    },
+    {
       "ComplaintId": "201405986",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201405986_RedactedClosingReport.pdf",
@@ -956,6 +998,12 @@
       "CaseDisposition": "Unfounded",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201406557_RedactedClosingReport.pdf",
       "ClosedDate": "06/03/2015"
+    },
+    {
+      "ComplaintId": "201406576",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201406576_RedactedClosingReport.pdf",
+      "ClosedDate": "02/09/2015"
     },
     {
       "ComplaintId": "201406706",
@@ -1376,6 +1424,12 @@
       "CaseDisposition": "Substantiated (Formalized Training)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201409661_RedactedClosingReport.pdf",
       "ClosedDate": "07/28/2015"
+    },
+    {
+      "ComplaintId": "201409670",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201409670_RedactedClosingReport.pdf",
+      "ClosedDate": "08/31/2015"
     },
     {
       "ComplaintId": "201409799",
@@ -2440,6 +2494,12 @@
       "ClosedDate": "10/07/2015"
     },
     {
+      "ComplaintId": "201503232",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201503232_RedactedClosingReport.pdf",
+      "ClosedDate": "09/03/2015"
+    },
+    {
       "ComplaintId": "201503326",
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201503326_RedactedClosingReport.pdf",
@@ -2516,6 +2576,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201503550_RedactedClosingReport.pdf",
       "ClosedDate": "12/14/2015"
+    },
+    {
+      "ComplaintId": "201503630",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201503630_RedactedClosingReport.pdf",
+      "ClosedDate": "09/30/2015"
     },
     {
       "ComplaintId": "201503710",
@@ -2902,6 +2968,12 @@
       "ClosedDate": "11/23/2015"
     },
     {
+      "ComplaintId": "201506124",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201506124_RedactedClosingReport.pdf",
+      "ClosedDate": "11/23/2015"
+    },
+    {
       "ComplaintId": "201506154",
       "CaseDisposition": "Substantiated (No Recommendations)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201506154_RedactedClosingReport.pdf",
@@ -2942,6 +3014,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201506288_RedactedClosingReport.pdf",
       "ClosedDate": "12/15/2015"
+    },
+    {
+      "ComplaintId": "201506325",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201506325_RedactedClosingReport.pdf",
+      "ClosedDate": "10/22/2015"
     },
     {
       "ComplaintId": "201506328",
@@ -3418,6 +3496,12 @@
       "ClosedDate": "12/21/2015"
     },
     {
+      "ComplaintId": "201508347",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201508347_RedactedClosingReport.pdf",
+      "ClosedDate": "07/26/2016"
+    },
+    {
       "ComplaintId": "201508383",
       "CaseDisposition": "Substantiated (Formalized Training)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201508383_RedactedClosingReport.pdf",
@@ -3434,6 +3518,12 @@
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201508463_RedactedClosingReport.pdf",
       "ClosedDate": "01/19/2016"
+    },
+    {
+      "ComplaintId": "201508477",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201508477_RedactedClosingReport.pdf",
+      "ClosedDate": "04/01/2016"
     },
     {
       "ComplaintId": "201508496",
@@ -3556,6 +3646,12 @@
       "ClosedDate": "03/11/2016"
     },
     {
+      "ComplaintId": "201509067",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201509067_RedactedClosingReport.pdf",
+      "ClosedDate": "01/19/2016"
+    },
+    {
       "ComplaintId": "201509083",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201509083_RedactedClosingReport.pdf",
@@ -3590,6 +3686,12 @@
       "CaseDisposition": "Exonerated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201509246_RedactedClosingReport.pdf",
       "ClosedDate": "06/01/2016"
+    },
+    {
+      "ComplaintId": "201509267",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201509267_RedactedClosingReport.pdf",
+      "ClosedDate": "07/13/2016"
     },
     {
       "ComplaintId": "201509299",
@@ -3862,6 +3964,12 @@
       "ClosedDate": "06/06/2016"
     },
     {
+      "ComplaintId": "201510704",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201510704_RedactedClosingReport.pdf",
+      "ClosedDate": "04/22/2016"
+    },
+    {
       "ComplaintId": "201510755",
       "CaseDisposition": "Exonerated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201510755_RedactedClosingReport.pdf",
@@ -3988,6 +4096,12 @@
       "ClosedDate": "08/29/2016"
     },
     {
+      "ComplaintId": "201600583",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201600583_RedactedClosingReport.pdf",
+      "ClosedDate": "05/06/2016"
+    },
+    {
       "ComplaintId": "201600593",
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201600593_RedactedClosingReport.pdf",
@@ -4016,6 +4130,12 @@
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201600770_RedactedClosingReport.pdf",
       "ClosedDate": "09/20/2016"
+    },
+    {
+      "ComplaintId": "201600967",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201600967_RedactedClosingReport.pdf",
+      "ClosedDate": "06/01/2016"
     },
     {
       "ComplaintId": "201600992",
@@ -4900,6 +5020,12 @@
       "ClosedDate": "12/15/2016"
     },
     {
+      "ComplaintId": "201605768",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201605768_RedactedClosingReport.pdf",
+      "ClosedDate": "02/17/2017"
+    },
+    {
       "ComplaintId": "201605895",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201605895_RedactedClosingReport.pdf",
@@ -4940,6 +5066,12 @@
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201606105_RedactedClosingReport.pdf",
       "ClosedDate": "01/09/2017"
+    },
+    {
+      "ComplaintId": "201606150",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201606150_RedactedClosingReport.pdf",
+      "ClosedDate": "04/18/2017"
     },
     {
       "ComplaintId": "201606160",
@@ -5830,6 +5962,12 @@
       "ClosedDate": "06/08/2017"
     },
     {
+      "ComplaintId": "201610499",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201610499_RedactedClosingReport.pdf",
+      "ClosedDate": "06/08/2017"
+    },
+    {
       "ComplaintId": "201610506",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201610506_RedactedClosingReport.pdf",
@@ -5953,6 +6091,12 @@
       "ComplaintId": "201700436",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201700436_RedactedClosingReport.pdf",
+      "ClosedDate": "05/15/2017"
+    },
+    {
+      "ComplaintId": "201700437",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201700437_RedactedClosingReport.pdf",
       "ClosedDate": "05/15/2017"
     },
     {
@@ -6092,6 +6236,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201700961_RedactedClosingReport.pdf",
       "ClosedDate": "05/15/2017"
+    },
+    {
+      "ComplaintId": "201700963",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201700963_RedactedClosingReport.pdf",
+      "ClosedDate": "09/13/2017"
     },
     {
       "ComplaintId": "201701024",
@@ -6268,6 +6418,12 @@
       "ClosedDate": "03/08/2018"
     },
     {
+      "ComplaintId": "201701879",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201701879_RedactedClosingReport.pdf",
+      "ClosedDate": "06/08/2017"
+    },
+    {
       "ComplaintId": "201701883",
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201701883_RedactedClosingReport.pdf",
@@ -6374,6 +6530,12 @@
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201702479_RedactedClosingReport.pdf",
       "ClosedDate": "09/19/2017"
+    },
+    {
+      "ComplaintId": "201702492",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201702492_RedactedClosingReport.pdf",
+      "ClosedDate": "09/22/2017"
     },
     {
       "ComplaintId": "201702505",
@@ -6772,6 +6934,12 @@
       "ClosedDate": "11/03/2017"
     },
     {
+      "ComplaintId": "201704633",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201704633_RedactedClosingReport.pdf",
+      "ClosedDate": "02/28/2018"
+    },
+    {
       "ComplaintId": "201704655",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201704655_RedactedClosingReport.pdf",
@@ -6908,6 +7076,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201705063_RedactedClosingReport.pdf",
       "ClosedDate": "10/04/2017"
+    },
+    {
+      "ComplaintId": "201705154",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201705154_RedactedClosingReport.pdf",
+      "ClosedDate": "11/03/2017"
     },
     {
       "ComplaintId": "201705158",
@@ -7072,6 +7246,12 @@
       "ClosedDate": "12/08/2017"
     },
     {
+      "ComplaintId": "201705935",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201705935_RedactedClosingReport.pdf",
+      "ClosedDate": "07/26/2018"
+    },
+    {
       "ComplaintId": "201705982",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201705982_RedactedClosingReport.pdf",
@@ -7106,6 +7286,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201706063_RedactedClosingReport.pdf",
       "ClosedDate": "11/19/2018"
+    },
+    {
+      "ComplaintId": "201706078",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201706078_RedactedClosingReport.pdf",
+      "ClosedDate": "06/27/2018"
     },
     {
       "ComplaintId": "201706120",
@@ -7316,6 +7502,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201706739_RedactedClosingReport.pdf",
       "ClosedDate": "01/09/2018"
+    },
+    {
+      "ComplaintId": "201706758",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201706758_RedactedClosingReport.pdf",
+      "ClosedDate": "01/16/2018"
     },
     {
       "ComplaintId": "201706760",
@@ -7628,6 +7820,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201707932_RedactedClosingReport.pdf",
       "ClosedDate": "01/30/2018"
+    },
+    {
+      "ComplaintId": "201707962",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201707962_RedactedClosingReport.pdf",
+      "ClosedDate": "06/27/2018"
     },
     {
       "ComplaintId": "201707985",
@@ -8002,6 +8200,18 @@
       "ClosedDate": "04/05/2018"
     },
     {
+      "ComplaintId": "201709310",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201709310_RedactedClosingReport.pdf",
+      "ClosedDate": "07/09/2018"
+    },
+    {
+      "ComplaintId": "201709342",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201709342_RedactedClosingReport.pdf",
+      "ClosedDate": "07/26/2018"
+    },
+    {
       "ComplaintId": "201709365",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201709365_RedactedClosingReport.pdf",
@@ -8308,6 +8518,12 @@
       "ClosedDate": "02/25/2019"
     },
     {
+      "ComplaintId": "201710412",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201710412_RedactedClosingReport.pdf",
+      "ClosedDate": "09/27/2018"
+    },
+    {
       "ComplaintId": "201710432",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201710432_RedactedClosingReport.pdf",
@@ -8402,6 +8618,12 @@
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201800068_RedactedClosingReport.pdf",
       "ClosedDate": "10/03/2018"
+    },
+    {
+      "ComplaintId": "201800074",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201800074_RedactedClosingReport.pdf",
+      "ClosedDate": "01/29/2019"
     },
     {
       "ComplaintId": "201800078",
@@ -8662,6 +8884,12 @@
       "ClosedDate": "11/19/2018"
     },
     {
+      "ComplaintId": "201800734",
+      "CaseDisposition": "Substantiated (Charges)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201800734_RedactedClosingReport.pdf",
+      "ClosedDate": "11/29/2018"
+    },
+    {
       "ComplaintId": "201800736",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201800736_RedactedClosingReport.pdf",
@@ -8918,6 +9146,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201801299_RedactedClosingReport.pdf",
       "ClosedDate": "12/06/2018"
+    },
+    {
+      "ComplaintId": "201801302",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201801302_RedactedClosingReport.pdf",
+      "ClosedDate": "10/16/2018"
     },
     {
       "ComplaintId": "201801323",
@@ -9538,6 +9772,12 @@
       "ClosedDate": "10/09/2018"
     },
     {
+      "ComplaintId": "201802913",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201802913_RedactedClosingReport.pdf",
+      "ClosedDate": "04/15/2019"
+    },
+    {
       "ComplaintId": "201802915",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201802915_RedactedClosingReport.pdf",
@@ -9868,6 +10108,12 @@
       "ClosedDate": "12/11/2018"
     },
     {
+      "ComplaintId": "201804023",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201804023_RedactedClosingReport.pdf",
+      "ClosedDate": "07/19/2019"
+    },
+    {
       "ComplaintId": "201804053",
       "CaseDisposition": "Unfounded",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201804053_RedactedClosingReport.pdf",
@@ -9884,6 +10130,12 @@
       "CaseDisposition": "Exonerated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201804060_RedactedClosingReport.pdf",
       "ClosedDate": "12/06/2018"
+    },
+    {
+      "ComplaintId": "201804102",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201804102_RedactedClosingReport.pdf",
+      "ClosedDate": "07/19/2019"
     },
     {
       "ComplaintId": "201804137",
@@ -10342,6 +10594,12 @@
       "ClosedDate": "03/06/2019"
     },
     {
+      "ComplaintId": "201805588",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201805588_RedactedClosingReport.pdf",
+      "ClosedDate": "07/19/2019"
+    },
+    {
       "ComplaintId": "201805591",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201805591_RedactedClosingReport.pdf",
@@ -10412,6 +10670,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201805790_RedactedClosingReport.pdf",
       "ClosedDate": "12/11/2018"
+    },
+    {
+      "ComplaintId": "201805808",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201805808_RedactedClosingReport.pdf",
+      "ClosedDate": "12/06/2018"
     },
     {
       "ComplaintId": "201805843",
@@ -10834,6 +11098,12 @@
       "ClosedDate": "06/19/2019"
     },
     {
+      "ComplaintId": "201806974",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201806974_RedactedClosingReport.pdf",
+      "ClosedDate": "04/24/2019"
+    },
+    {
       "ComplaintId": "201806977",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201806977_RedactedClosingReport.pdf",
@@ -10882,6 +11152,12 @@
       "ClosedDate": "05/14/2019"
     },
     {
+      "ComplaintId": "201807181",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201807181_RedactedClosingReport.pdf",
+      "ClosedDate": "01/24/2019"
+    },
+    {
       "ComplaintId": "201807198",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201807198_RedactedClosingReport.pdf",
@@ -10898,6 +11174,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201807205_RedactedClosingReport.pdf",
       "ClosedDate": "04/24/2019"
+    },
+    {
+      "ComplaintId": "201807211",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201807211_RedactedClosingReport.pdf",
+      "ClosedDate": "03/12/2019"
     },
     {
       "ComplaintId": "201807212",
@@ -10928,6 +11210,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201807245_RedactedClosingReport.pdf",
       "ClosedDate": "07/19/2019"
+    },
+    {
+      "ComplaintId": "201807265",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201807265_RedactedClosingReport.pdf",
+      "ClosedDate": "10/07/2019"
     },
     {
       "ComplaintId": "201807266",
@@ -11344,6 +11632,12 @@
       "ClosedDate": "06/13/2019"
     },
     {
+      "ComplaintId": "201808579",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201808579_RedactedClosingReport.pdf",
+      "ClosedDate": "10/25/2019"
+    },
+    {
       "ComplaintId": "201808612",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201808612_RedactedClosingReport.pdf",
@@ -11446,6 +11740,12 @@
       "ClosedDate": "06/13/2019"
     },
     {
+      "ComplaintId": "201808850",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201808850_RedactedClosingReport.pdf",
+      "ClosedDate": "05/01/2020"
+    },
+    {
       "ComplaintId": "201808904",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201808904_RedactedClosingReport.pdf",
@@ -11480,6 +11780,12 @@
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201808957_RedactedClosingReport.pdf",
       "ClosedDate": "06/13/2019"
+    },
+    {
+      "ComplaintId": "201808962",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201808962_RedactedClosingReport.pdf",
+      "ClosedDate": "10/03/2019"
     },
     {
       "ComplaintId": "201808980",
@@ -11762,6 +12068,12 @@
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201809797_RedactedClosingReport.pdf",
       "ClosedDate": "06/19/2019"
+    },
+    {
+      "ComplaintId": "201809808",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201809808_RedactedClosingReport.pdf",
+      "ClosedDate": "05/14/2019"
     },
     {
       "ComplaintId": "201809819",
@@ -12286,6 +12598,12 @@
       "ClosedDate": "12/12/2019"
     },
     {
+      "ComplaintId": "201900412",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900412_RedactedClosingReport.pdf",
+      "ClosedDate": "08/31/2021"
+    },
+    {
       "ComplaintId": "201900416",
       "CaseDisposition": "Substantiated (Formalized Training)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900416_RedactedClosingReport.pdf",
@@ -12326,6 +12644,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900599_RedactedClosingReport.pdf",
       "ClosedDate": "12/12/2019"
+    },
+    {
+      "ComplaintId": "201900620",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900620_RedactedClosingReport.pdf",
+      "ClosedDate": "06/04/2019"
     },
     {
       "ComplaintId": "201900625",
@@ -12370,10 +12694,22 @@
       "ClosedDate": "08/01/2019"
     },
     {
+      "ComplaintId": "201900776",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900776_RedactedClosingReport.pdf",
+      "ClosedDate": "09/26/2019"
+    },
+    {
       "ComplaintId": "201900778",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900778_RedactedClosingReport.pdf",
       "ClosedDate": "10/07/2019"
+    },
+    {
+      "ComplaintId": "201900785",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900785_RedactedClosingReport.pdf",
+      "ClosedDate": "11/22/2019"
     },
     {
       "ComplaintId": "201900789",
@@ -12386,6 +12722,12 @@
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900799_RedactedClosingReport.pdf",
       "ClosedDate": "11/25/2019"
+    },
+    {
+      "ComplaintId": "201900814",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900814_RedactedClosingReport.pdf",
+      "ClosedDate": "11/21/2019"
     },
     {
       "ComplaintId": "201900822",
@@ -12424,10 +12766,22 @@
       "ClosedDate": "11/22/2019"
     },
     {
+      "ComplaintId": "201900870",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900870_RedactedClosingReport.pdf",
+      "ClosedDate": "06/04/2019"
+    },
+    {
       "ComplaintId": "201900875",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900875_RedactedClosingReport.pdf",
       "ClosedDate": "09/26/2019"
+    },
+    {
+      "ComplaintId": "201900909",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201900909_RedactedClosingReport.pdf",
+      "ClosedDate": "11/22/2019"
     },
     {
       "ComplaintId": "201900920",
@@ -12544,6 +12898,12 @@
       "ClosedDate": "06/08/2020"
     },
     {
+      "ComplaintId": "201901320",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901320_RedactedClosingReport.pdf",
+      "ClosedDate": "06/08/2020"
+    },
+    {
       "ComplaintId": "201901322",
       "CaseDisposition": "Substantiated (Formalized Training)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901322_RedactedClosingReport.pdf",
@@ -12628,10 +12988,34 @@
       "ClosedDate": "08/01/2019"
     },
     {
+      "ComplaintId": "201901491",
+      "CaseDisposition": "Substantiated (Command Discipline A)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901491_RedactedClosingReport.pdf",
+      "ClosedDate": "09/17/2019"
+    },
+    {
+      "ComplaintId": "201901517",
+      "CaseDisposition": "Substantiated (Command Discipline A)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901517_RedactedClosingReport.pdf",
+      "ClosedDate": "03/06/2020"
+    },
+    {
       "ComplaintId": "201901565",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901565_RedactedClosingReport.pdf",
       "ClosedDate": "05/27/2020"
+    },
+    {
+      "ComplaintId": "201901569",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901569_RedactedClosingReport.pdf",
+      "ClosedDate": "10/03/2019"
+    },
+    {
+      "ComplaintId": "201901572",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901572_RedactedClosingReport.pdf",
+      "ClosedDate": "05/01/2020"
     },
     {
       "ComplaintId": "201901580",
@@ -12662,6 +13046,12 @@
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901603_RedactedClosingReport.pdf",
       "ClosedDate": "06/08/2020"
+    },
+    {
+      "ComplaintId": "201901623",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201901623_RedactedClosingReport.pdf",
+      "ClosedDate": "10/31/2019"
     },
     {
       "ComplaintId": "201901626",
@@ -12880,6 +13270,12 @@
       "ClosedDate": "09/26/2019"
     },
     {
+      "ComplaintId": "201902083",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902083_RedactedClosingReport.pdf",
+      "ClosedDate": "09/26/2019"
+    },
+    {
       "ComplaintId": "201902104",
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902104_RedactedClosingReport.pdf",
@@ -12910,6 +13306,12 @@
       "ClosedDate": "01/09/2020"
     },
     {
+      "ComplaintId": "201902171",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902171_RedactedClosingReport.pdf",
+      "ClosedDate": "12/11/2019"
+    },
+    {
       "ComplaintId": "201902192",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902192_RedactedClosingReport.pdf",
@@ -12920,6 +13322,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902195_RedactedClosingReport.pdf",
       "ClosedDate": "10/07/2019"
+    },
+    {
+      "ComplaintId": "201902197",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902197_RedactedClosingReport.pdf",
+      "ClosedDate": "06/13/2019"
     },
     {
       "ComplaintId": "201902204",
@@ -13036,6 +13444,12 @@
       "ClosedDate": "08/13/2020"
     },
     {
+      "ComplaintId": "201902464",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902464_RedactedClosingReport.pdf",
+      "ClosedDate": "05/01/2020"
+    },
+    {
       "ComplaintId": "201902466",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902466_RedactedClosingReport.pdf",
@@ -13084,16 +13498,34 @@
       "ClosedDate": "09/26/2019"
     },
     {
+      "ComplaintId": "201902628",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902628_RedactedClosingReport.pdf",
+      "ClosedDate": "06/17/2020"
+    },
+    {
       "ComplaintId": "201902638",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902638_RedactedClosingReport.pdf",
       "ClosedDate": "04/27/2020"
     },
     {
+      "ComplaintId": "201902655",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902655_RedactedClosingReport.pdf",
+      "ClosedDate": "01/09/2020"
+    },
+    {
       "ComplaintId": "201902678",
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902678_RedactedClosingReport.pdf",
       "ClosedDate": "10/03/2019"
+    },
+    {
+      "ComplaintId": "201902684",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902684_RedactedClosingReport.pdf",
+      "ClosedDate": "12/12/2019"
     },
     {
       "ComplaintId": "201902688",
@@ -13138,10 +13570,28 @@
       "ClosedDate": "03/26/2020"
     },
     {
+      "ComplaintId": "201902793",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902793_RedactedClosingReport.pdf",
+      "ClosedDate": "06/18/2020"
+    },
+    {
+      "ComplaintId": "201902810",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902810_RedactedClosingReport.pdf",
+      "ClosedDate": "02/13/2020"
+    },
+    {
       "ComplaintId": "201902812",
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902812_RedactedClosingReport.pdf",
       "ClosedDate": "10/27/2020"
+    },
+    {
+      "ComplaintId": "201902821",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902821_RedactedClosingReport.pdf",
+      "ClosedDate": "05/01/2020"
     },
     {
       "ComplaintId": "201902826",
@@ -13166,6 +13616,18 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902845_RedactedClosingReport.pdf",
       "ClosedDate": "07/27/2020"
+    },
+    {
+      "ComplaintId": "201902852",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902852_RedactedClosingReport.pdf",
+      "ClosedDate": "08/01/2019"
+    },
+    {
+      "ComplaintId": "201902877",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201902877_RedactedClosingReport.pdf",
+      "ClosedDate": "04/27/2020"
     },
     {
       "ComplaintId": "201902883",
@@ -13238,6 +13700,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201903012_RedactedClosingReport.pdf",
       "ClosedDate": "05/27/2020"
+    },
+    {
+      "ComplaintId": "201903016",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201903016_RedactedClosingReport.pdf",
+      "ClosedDate": "05/15/2020"
     },
     {
       "ComplaintId": "201903031",
@@ -13534,6 +14002,12 @@
       "ClosedDate": "09/26/2019"
     },
     {
+      "ComplaintId": "201903726",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201903726_RedactedClosingReport.pdf",
+      "ClosedDate": "06/18/2020"
+    },
+    {
       "ComplaintId": "201903728",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201903728_RedactedClosingReport.pdf",
@@ -13678,6 +14152,12 @@
       "ClosedDate": "11/22/2019"
     },
     {
+      "ComplaintId": "201904012",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904012_RedactedClosingReport.pdf",
+      "ClosedDate": "12/12/2019"
+    },
+    {
       "ComplaintId": "201904022",
       "CaseDisposition": "Substantiated (Formalized Training)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904022_RedactedClosingReport.pdf",
@@ -13688,6 +14168,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904023_RedactedClosingReport.pdf",
       "ClosedDate": "06/08/2020"
+    },
+    {
+      "ComplaintId": "201904033",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904033_RedactedClosingReport.pdf",
+      "ClosedDate": "01/09/2020"
     },
     {
       "ComplaintId": "201904043",
@@ -13744,6 +14230,12 @@
       "ClosedDate": "08/20/2019"
     },
     {
+      "ComplaintId": "201904107",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904107_RedactedClosingReport.pdf",
+      "ClosedDate": "12/12/2019"
+    },
+    {
       "ComplaintId": "201904129",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904129_RedactedClosingReport.pdf",
@@ -13796,6 +14288,12 @@
       "CaseDisposition": "Substantiated (Command Lvl Instructions)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904239_RedactedClosingReport.pdf",
       "ClosedDate": "05/12/2020"
+    },
+    {
+      "ComplaintId": "201904252",
+      "CaseDisposition": "Substantiated (Formalized Training)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904252_RedactedClosingReport.pdf",
+      "ClosedDate": "06/08/2020"
     },
     {
       "ComplaintId": "201904264",
@@ -13942,10 +14440,22 @@
       "ClosedDate": "08/13/2020"
     },
     {
+      "ComplaintId": "201904510",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904510_RedactedClosingReport.pdf",
+      "ClosedDate": "06/18/2020"
+    },
+    {
       "ComplaintId": "201904529",
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904529_RedactedClosingReport.pdf",
       "ClosedDate": "05/13/2021"
+    },
+    {
+      "ComplaintId": "201904530",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904530_RedactedClosingReport.pdf",
+      "ClosedDate": "11/22/2019"
     },
     {
       "ComplaintId": "201904531",
@@ -13958,6 +14468,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904544_RedactedClosingReport.pdf",
       "ClosedDate": "09/18/2020"
+    },
+    {
+      "ComplaintId": "201904546",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904546_RedactedClosingReport.pdf",
+      "ClosedDate": "03/19/2020"
     },
     {
       "ComplaintId": "201904581",
@@ -13982,6 +14498,12 @@
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904596_RedactedClosingReport.pdf",
       "ClosedDate": "06/18/2020"
+    },
+    {
+      "ComplaintId": "201904599",
+      "CaseDisposition": "Substantiated (Command Lvl Instructions)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201904599_RedactedClosingReport.pdf",
+      "ClosedDate": "11/20/2019"
     },
     {
       "ComplaintId": "201904632",
@@ -14384,6 +14906,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201905389_RedactedClosingReport.pdf",
       "ClosedDate": "06/22/2021"
+    },
+    {
+      "ComplaintId": "201905390",
+      "CaseDisposition": "Unfounded",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201905390_RedactedClosingReport.pdf",
+      "ClosedDate": "12/11/2019"
     },
     {
       "ComplaintId": "201905398",
@@ -14935,6 +15463,12 @@
       "ComplaintId": "201906783",
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201906783_RedactedClosingReport.pdf",
+      "ClosedDate": "06/18/2020"
+    },
+    {
+      "ComplaintId": "201906798",
+      "CaseDisposition": "Substantiated (Charges)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/201906798_RedactedClosingReport.pdf",
       "ClosedDate": "06/18/2020"
     },
     {
@@ -16762,6 +17296,12 @@
       "ClosedDate": "01/21/2022"
     },
     {
+      "ComplaintId": "202000634",
+      "CaseDisposition": "Substantiated (Charges)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000634_RedactedClosingReport.pdf",
+      "ClosedDate": "01/21/2022"
+    },
+    {
       "ComplaintId": "202000753",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000753_RedactedClosingReport.pdf",
@@ -16804,6 +17344,18 @@
       "ClosedDate": "07/14/2020"
     },
     {
+      "ComplaintId": "202000861",
+      "CaseDisposition": "Substantiated (Command Discipline A)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000861_RedactedClosingReport.pdf",
+      "ClosedDate": "11/24/2021"
+    },
+    {
+      "ComplaintId": "202000887",
+      "CaseDisposition": "Substantiated (Command Discipline A)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000887_RedactedClosingReport.pdf",
+      "ClosedDate": "01/21/2022"
+    },
+    {
       "ComplaintId": "202000898",
       "CaseDisposition": "Substantiated (Command Discipline B)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000898_RedactedClosingReport.pdf",
@@ -16820,6 +17372,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000924_RedactedClosingReport.pdf",
       "ClosedDate": "02/28/2022"
+    },
+    {
+      "ComplaintId": "202000948",
+      "CaseDisposition": "Unsubstantiated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202000948_RedactedClosingReport.pdf",
+      "ClosedDate": "02/02/2022"
     },
     {
       "ComplaintId": "202000957",
@@ -16964,6 +17522,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202001793_RedactedClosingReport.pdf",
       "ClosedDate": "02/28/2022"
+    },
+    {
+      "ComplaintId": "202001798",
+      "CaseDisposition": "Substantiated (Command Discipline A)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202001798_RedactedClosingReport.pdf",
+      "ClosedDate": "03/23/2022"
     },
     {
       "ComplaintId": "202001807",
@@ -17228,6 +17792,12 @@
       "CaseDisposition": "Exonerated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202002622_RedactedClosingReport.pdf",
       "ClosedDate": "02/28/2022"
+    },
+    {
+      "ComplaintId": "202002623",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202002623_RedactedClosingReport.pdf",
+      "ClosedDate": "04/21/2022"
     },
     {
       "ComplaintId": "202002635",
@@ -19348,6 +19918,12 @@
       "ClosedDate": "09/01/2021"
     },
     {
+      "ComplaintId": "202006318",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202006318_RedactedClosingReport.pdf",
+      "ClosedDate": "03/24/2022"
+    },
+    {
       "ComplaintId": "202006325",
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202006325_RedactedClosingReport.pdf",
@@ -19744,6 +20320,12 @@
       "ClosedDate": "06/09/2022"
     },
     {
+      "ComplaintId": "202100211",
+      "CaseDisposition": "Unfounded",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202100211_RedactedClosingReport.pdf",
+      "ClosedDate": "07/14/2022"
+    },
+    {
       "ComplaintId": "202100260",
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202100260_RedactedClosingReport.pdf",
@@ -19994,6 +20576,12 @@
       "CaseDisposition": "Unsubstantiated",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202101658_RedactedClosingReport.pdf",
       "ClosedDate": "02/28/2022"
+    },
+    {
+      "ComplaintId": "202101666",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202101666_RedactedClosingReport.pdf",
+      "ClosedDate": "12/16/2022"
     },
     {
       "ComplaintId": "202101743",
@@ -20974,6 +21562,12 @@
       "ClosedDate": "01/19/2023"
     },
     {
+      "ComplaintId": "202106519",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202106519_RedactedClosingReport.pdf",
+      "ClosedDate": "03/17/2023"
+    },
+    {
       "ComplaintId": "202106606",
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202106606_RedactedClosingReport.pdf",
@@ -21146,6 +21740,12 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202200238_RedactedClosingReport.pdf",
       "ClosedDate": "02/15/2023"
+    },
+    {
+      "ComplaintId": "202200276",
+      "CaseDisposition": "Unable to Determine",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202200276_RedactedClosingReport.pdf",
+      "ClosedDate": "06/06/2023"
     },
     {
       "ComplaintId": "202200292",
@@ -21532,16 +22132,16 @@
       "ClosedDate": "10/03/2023"
     },
     {
-      "ComplaintId": "202204404",
-      "CaseDisposition": "Substantiated (Charges)",
-      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202204404_RedactedClosingReport.pdf",
-      "ClosedDate": "11/22/2023"
-    },
-    {
       "ComplaintId": "202204599",
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202204599_RedactedClosingReport.pdf",
       "ClosedDate": "11/22/2023"
+    },
+    {
+      "ComplaintId": "202204742",
+      "CaseDisposition": "Exonerated",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202204742_RedactedClosingReport.pdf",
+      "ClosedDate": "01/23/2023"
     },
     {
       "ComplaintId": "202204823",
@@ -21994,6 +22594,12 @@
       "ClosedDate": "08/06/2024"
     },
     {
+      "ComplaintId": "202303334",
+      "CaseDisposition": "Substantiated (Charges)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202303334_RedactedClosingReport.pdf",
+      "ClosedDate": "08/19/2024"
+    },
+    {
       "ComplaintId": "202303338",
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202303338_RedactedClosingReport.pdf",
@@ -22022,6 +22628,12 @@
       "CaseDisposition": "Unfounded",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202305488_RedactedClosingReport.pdf",
       "ClosedDate": "05/09/2024"
+    },
+    {
+      "ComplaintId": "202307237",
+      "CaseDisposition": "Unable to Determine",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202307237_RedactedClosingReport.pdf",
+      "ClosedDate": "08/06/2024"
     },
     {
       "ComplaintId": "202308471",
