@@ -3,4 +3,8 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store*
 
+*.csv
+records.csv
+records.json
+
 node_modules/
