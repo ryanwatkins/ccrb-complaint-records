@@ -1,7 +1,7 @@
 {
-  "totalPosted": "4200",
-  "totalClosedCase": "17440",
-  "lastPublishDate": "04/14/2025",
+  "totalPosted": "4204",
+  "totalClosedCase": "17442",
+  "lastPublishDate": "04/21/2025",
   "closingReports": [
     {
       "ComplaintId": "201007184",
@@ -25186,16 +25186,40 @@
       "ClosedDate": "01/31/2025"
     },
     {
+      "ComplaintId": "202308673",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202308673_RedactedClosingReport.pdf",
+      "ClosedDate": "02/07/2025"
+    },
+    {
       "ComplaintId": "202308769",
       "CaseDisposition": "Substantiated (Command Discipline A)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202308769_RedactedClosingReport.pdf",
       "ClosedDate": "10/08/2024"
     },
     {
+      "ComplaintId": "202308838",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202308838_RedactedClosingReport.pdf",
+      "ClosedDate": "01/31/2025"
+    },
+    {
+      "ComplaintId": "202309123",
+      "CaseDisposition": "Substantiated (Command Discipline B)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202309123_RedactedClosingReport.pdf",
+      "ClosedDate": "02/07/2025"
+    },
+    {
       "ComplaintId": "202309989",
       "CaseDisposition": "Within NYPD Guidelines",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202309989_RedactedClosingReport.pdf",
       "ClosedDate": "07/23/2024"
+    },
+    {
+      "ComplaintId": "202311045",
+      "CaseDisposition": "Substantiated (Command Discipline A)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202311045_RedactedClosingReport.pdf",
+      "ClosedDate": "02/18/2025"
     },
     {
       "ComplaintId": "202311408",
