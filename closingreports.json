@@ -1,7 +1,7 @@
 {
   "totalPosted": "4907",
-  "totalClosedCase": "18506",
-  "lastPublishDate": "10/14/2025",
+  "totalClosedCase": "18546",
+  "lastPublishDate": "10/24/2025",
   "closingReports": [
     {
       "ComplaintId": "201007184",
@@ -24058,6 +24058,12 @@
       "ClosedDate": "12/21/2020"
     },
     {
+      "ComplaintId": "202004055",
+      "CaseDisposition": "Substantiated (Charges)",
+      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202004055_RedactedClosingReport.pdf",
+      "ClosedDate": "04/04/2022"
+    },
+    {
       "ComplaintId": "202004057",
       "CaseDisposition": "Officer(s) Unidentified",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202004057_RedactedClosingReport.pdf",
@@ -27332,12 +27338,6 @@
       "CaseDisposition": "Substantiated (Charges)",
       "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202106151_RedactedClosingReport.pdf",
       "ClosedDate": "01/19/2023"
-    },
-    {
-      "ComplaintId": "202106152",
-      "CaseDisposition": "Substantiated (Charges)",
-      "WebsiteDocumentFileName": "https://www1.nyc.gov/assets/ccrb/downloads/pdf/closing-reports/202106152_RedactedClosingReport.pdf",
-      "ClosedDate": "03/17/2023"
     },
     {
       "ComplaintId": "202106162",
